@@ -1,6 +1,6 @@
 saldo_inicial = 1500.65
-deposito_dici = "Número do déposito    -    Valor (R$)\n"
-saque_dici = "Número de saque    -    Valor (R$)\n"
+deposito_dici = "Número do déposito   -    Valor (R$)\n"
+saque_dici = "Número de saque   -    Valor (R$)\n"
 contador_deposito = 1 
 contador_saque = 1
 options =-1
